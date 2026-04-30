@@ -4,7 +4,7 @@ I’ve designed a custom controller specifically for Clone Hero (Guitar Hero-sty
 It is completely based on the Synyster Gates 7-string Shechter guitar.
 
 A complete STL file set for 3D printing a custom guitar-style controller for Clone Hero. This is a digital download only. No physical controller is included. All required parts, electronics, hardware, and recommended purchase links are listed in the assembly instructions.
-
+https://cults3d.com/en/3d-model/gadget/clone-hero-controller-guitar-hero
 
 PCB files, firmware, Gerber files, and assembly information are available for free on GitHub:
 https://github.com/Alshochat/Cloneshochat---Clone-Hero-Controller
