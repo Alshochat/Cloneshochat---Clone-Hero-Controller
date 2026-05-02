@@ -18,4 +18,4 @@ Use at your own risk. I am not responsible for any damage, malfunction, or issue
 
 Feel free to modify and adapt the design for your own needs, but please do not redistribute or resell the files without permission.
 
-rintable files, DIY hardware builds, and maker experiments: https://alshochat.com/
+More printable files, DIY hardware builds, and maker experiments: https://alshochat.com/
